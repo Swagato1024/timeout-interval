@@ -1,0 +1,32 @@
+snake game
+How to maintain snake ?
+->
+snake has a head and tail
+snake has a length
+
+behaviour of snake?
+snake can eat food
+By eating food snake grows
+snake can move left, right, up and down.
+
+example of moving a snake:
+head: x1, y1
+tail: x2, y2
+
+How to move Up ?
+currently head is at (x, y)
+
+snake can die .
+if snake hits border snake will die.
+
+
+How to maintain food ?
+food has a x and y coordinates
+food has point 
+
+food will be generated
+
+-----Game--------
+generate food after a certain interval.
+if food has been eaten generate new food.
+
